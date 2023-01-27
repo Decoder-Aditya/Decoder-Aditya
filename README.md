@@ -1,7 +1,7 @@
 [![MasterHead](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSu3QyrEfXdR6XMLwtX6SPebwxrqFhpRZEpnw&usqp=CAU)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Aditya Pratap Singh</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-img align="right" alt="coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQW0pIrjIJYAxAeSxDzr3bAUmhiMfX7j4cL3A&usqp=CAU>
+<img align="right" alt="coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQW0pIrjIJYAxAeSxDzr3bAUmhiMfX7j4cL3A&usqp=CAU>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=decoder-aditya&label=Profile%20views&color=0e75b6&style=flat" alt="decoder-aditya" /> </p>
 
